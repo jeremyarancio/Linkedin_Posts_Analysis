@@ -7,10 +7,10 @@ We performed :
 
 ⭐ Data cleaning   
 ⭐ Exploratory Data Analysis   
-⭐ Influence of adding aa media to a post tested with an hypothesis test
-⭐ Text preprocessing
-⭐ Phrase modeling
-⭐ Topic modeling using LDA
+⭐ Influence of adding aa media to a post tested with an hypothesis test  
+⭐ Text preprocessing  
+⭐ Phrase modeling  
+⭐ Topic modeling using LDA  
 
 The final notebook is defined as 0_Project_Notebook.ipynb and summarize all notebooks I used during this project. Feel free to check these drafts.
 
