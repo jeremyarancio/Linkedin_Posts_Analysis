@@ -5,8 +5,8 @@ What makes a Linkedin post good ?
 In this project, we study Linkedin posts from american influencers like Simon Sinek or Richard Branson to highlight what makes a Linkedin post good. 
 We performed :
 
-⭐ Data cleaning //
-⭐ Exploratory Data Analysis
+⭐ Data cleaning   
+⭐ Exploratory Data Analysis   
 ⭐ Influence of adding aa media to a post tested with an hypothesis test
 ⭐ Text preprocessing
 ⭐ Phrase modeling
